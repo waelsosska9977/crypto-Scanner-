@@ -1,0 +1,6 @@
+{
+  "name": "CryptoScalp Pro - فلتر ومقتنص الفرص المضاربية",
+  "description": "منصة التحليل الفني وفلترة العملات الرقمية للمضاربة واقتناص الفرص باستراتيجية تقاطع المتوسطات الأسية EMA وأحجام التداول",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
